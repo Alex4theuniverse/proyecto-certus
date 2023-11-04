@@ -1,0 +1,1 @@
+este archivo es para practicar en el vscode como hacer el git push y git pull al mismos tiempo
